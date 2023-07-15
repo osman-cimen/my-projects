@@ -65,7 +65,7 @@ Resources:
               OriginProtocolPolicy: http-only
         PriceClass: PriceClass_All
         ViewerCertificate:
-          AcmCertificateArn: arn:aws:acm:us-east-1:387976381562:certificate/731700bd-88e7-4ba6-b791-32a59dce4b29
+          AcmCertificateArn: xxxxxxx
           SslSupportMethod: sni-only
 
   MyRecordName:
